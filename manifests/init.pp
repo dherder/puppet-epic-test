@@ -1,5 +1,5 @@
 class desktop_picture (
-    $path = '/Library/Desktop Pictures/El Capitan.jpg'
+    $path = '/Library/Desktop Pictures/desktop.jpg'
 )
 {
     mac_profiles_handler::manage { 'com.millrule.config.desktop':
